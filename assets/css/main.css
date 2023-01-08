@@ -635,8 +635,8 @@ input, select, textarea {
 			font-family: 'Font Awesome 5 Brands';
 		}
 		
-		.icon.calculator:before {
-			content: "/f067";
+		.icon.plus:before {
+			font-family: "Font Awesome 5 Free"; font-weight "900"; content: "/f067";
 		}
 
 /* Image */

@@ -72,6 +72,30 @@ input, select, textarea {
 	appearance: none;
 }
 
+
+/*Top-Nav*/
+
+.topnav {
+  overflow: hidden;
+  background-color: #DCDCDC;
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 13px 16px;
+  text-decoration: none;
+}
+
+/* Change color on hover */
+.topnav a:hover {
+  background-color: #A9A9A9;
+  color: black;
+}
+
+
 /* Basic */
 
 	@-ms-viewport {

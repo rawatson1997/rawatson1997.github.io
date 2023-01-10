@@ -78,7 +78,7 @@ input, select, textarea {
 .topnav {
   overflow: hidden;
   background-color: none /*#DCDCDC*/;
-  border: 2px solid white
+  border: .01rem solid white
 }
 
 .topnav a {
@@ -88,6 +88,10 @@ input, select, textarea {
   text-align: center;
   padding: 13px 16px;
   text-decoration: none;
+}
+
+.topnav a:after {
+  border-right:1px solid white;	
 }
 
 /* Change color on hover */

@@ -1383,6 +1383,17 @@ input, select, textarea {
 			border: solid 1px #ffffff;
 			border-radius: 4px;
 		}
+		.secondary #header nav ul {
+			display: -moz-flex;
+			display: -webkit-flex;
+			display: -ms-flex;
+			display: flex;
+			margin-bottom: 0;
+			list-style: none;
+			padding-left: 0;
+			border: solid 2px #ffffff;
+			border-radius: 4px;
+		}
 
 			#header nav ul li {
 				padding-left: 0;

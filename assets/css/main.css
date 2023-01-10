@@ -78,6 +78,7 @@ input, select, textarea {
 .topnav {
   overflow: hidden;
   background-color: none /*#DCDCDC*/;
+  border-bottom: white;
 }
 
 .topnav a {

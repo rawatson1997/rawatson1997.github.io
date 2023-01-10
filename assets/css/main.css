@@ -79,7 +79,7 @@ input, select, textarea {
   overflow: hidden;
   background-color: none /*#DCDCDC*/;
   border: .01rem solid white;
-  font: inherit
+  font: inherit;
 }
 
 .topnav a {
@@ -89,6 +89,7 @@ input, select, textarea {
   text-align: center;
   padding: 13px 16px;
   text-decoration: none;
+  font: inherit;
 }
 
 .topnav a:after {

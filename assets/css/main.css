@@ -1681,7 +1681,7 @@ input, select, textarea {
 		font-size: 150%;
 		font: inherit;
 		margin: 3rem;
-		justify-content: left;
+		justify-content: start;
 }
 
 

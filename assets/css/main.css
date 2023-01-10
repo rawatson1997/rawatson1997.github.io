@@ -78,12 +78,12 @@ input, select, textarea {
 .topnav {
   overflow: hidden;
   background-color: none /*#DCDCDC*/;
-  border: 1px solid white
+  border: 2px solid white
 }
 
 .topnav a {
   float: left;
-  display: block;
+  display: inline;
   color: white;
   text-align: center;
   padding: 13px 16px;

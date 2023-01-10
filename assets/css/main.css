@@ -75,12 +75,13 @@ input, select, textarea {
 
 /*Top-Nav*/
 
-#topnav {
+.topnav {
   overflow: hidden;
   background-color: none /*#DCDCDC*/;
+  border: 1px solid white
 }
 
-#topnav a {
+.topnav a {
   float: left;
   display: block;
   color: white;
@@ -90,12 +91,12 @@ input, select, textarea {
 }
 
 /* Change color on hover */
-#topnav a:hover {
+.topnav a:hover {
   background-color: rgba(255, 255, 255, 0.075);
   color: white;
 }
 
-#topnav a:active {
+.topnav a:active {
 	background-color: rgba(255, 255, 255, 0.175);
 }
 

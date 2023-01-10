@@ -1577,6 +1577,10 @@ input, select, textarea {
 		-ms-flex-direction: column;
 		flex-direction: column;
 		position: relative;
+		background:#1B1F22;
+		background-position:center;
+		margin:auto;
+		max-height 90%;
 		max-width: 80%;
 		z-index: 3;
 	}
